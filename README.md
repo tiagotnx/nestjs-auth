@@ -1,6 +1,6 @@
 # Autenticação (Sistema de Login) com Token JWT
 
-[![NestJS - Autenticação (Sistema de Login)](http://img.youtube.com/vi/3z6Cs_PtYc0/0.jpg)](http://www.youtube.com/watch?v=3z6Cs_PtYc0)
+<center>[![NestJS - Autenticação (Sistema de Login)](http://img.youtube.com/vi/3z6Cs_PtYc0/0.jpg)](http://www.youtube.com/watch?v=3z6Cs_PtYc0)</center>
 
 **Link do repositório no GitHub:** [https://github.com/FabricaDeSinapse/nestjs-auth](https://github.com/FabricaDeSinapse/nestjs-auth)
 
